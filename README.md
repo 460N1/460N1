@@ -1,8 +1,8 @@
 [![Twitter](https://img.shields.io/badge/-LinkedIn-006BAD?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/460n1/)
 [![Twitter](https://img.shields.io/badge/-Facebook-006BAD?style=flat-square&logo=RSS&logoColor=white)](https://fb.com/460N1)
 
-I'm a solution architect, VP of Engineering and full stack developer. Currently in the employee of PBC Kosovo.
-Currently, I specialise in teaching and building enterprise applications using .NET, SQL and Vue.
+I'm a solution architect, VP of Engineering and full stack developer.<br/><br/>Currently in the employee of PBC Kosovo.<br/>
+Currently, I specialise in building enterprise applications using .NET, SQL and Vue.<br/>
 I love a challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution.
 
 
