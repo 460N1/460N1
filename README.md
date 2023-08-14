@@ -1,5 +1,4 @@
 [![Twitter](https://img.shields.io/badge/-LinkedIn-006BAD?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/460n1/)
-[![Twitter](https://img.shields.io/badge/-Facebook-006BAD?style=flat-square&logo=RSS&logoColor=white)](https://fb.com/460N1)
 
 I'm a full stack developer.<br/><br/>Currently employed as VP of Engineering at PBC Kosovo.<br/>
 Currently, I specialise in building enterprise applications using .NET, SQL and Vue.<br/>
